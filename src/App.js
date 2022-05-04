@@ -26,6 +26,7 @@ const data = [
   { id: 9, currency:'AXS', price:90, owned:10, value:100, buyPrice:5, pnl:1+1 },
   { id: 9, currency:'DOT', price:90, owned:10, value:100, buyPrice:5, pnl:1+1 },
   { id: 9, currency:'ITHEUM', price:90, owned:10, value:100, buyPrice:5, pnl:1+1 },
+  { id: 9, currency:'ITHEUM', price:90, owned:10, value:100, buyPrice:5, pnl:1+1 },
 ];
 
 function App() {
